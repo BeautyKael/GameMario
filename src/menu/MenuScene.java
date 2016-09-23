@@ -18,7 +18,7 @@ import org.cocos2d.nodes.CCSprite;
 import android.util.Log;
 
 /**
- * 类注释
+ * 主菜单场景
  * 
  * @author Zhouls
  * @date Sep 22, 2016 6:04:07 PM

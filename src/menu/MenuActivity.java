@@ -14,7 +14,7 @@ import org.cocos2d.nodes.CCDirector;
 import android.os.Bundle;
 
 /**
- * Àà×¢ÊÍ
+ * Ö÷²Ëµ¥
  * 
  * @author Zhouls
  * @date Sep 22, 2016 6:03:58 PM

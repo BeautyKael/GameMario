@@ -15,7 +15,7 @@ import org.cocos2d.layers.CCLayer;
 import org.cocos2d.nodes.CCSprite;
 
 /**
- * 加载资源
+ * 加载资源场景
  * 
  * @author Zhouls
  * @date Sep 20, 2016 4:51:46 PM

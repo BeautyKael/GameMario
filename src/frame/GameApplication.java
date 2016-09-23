@@ -10,7 +10,7 @@ package frame;
 import android.app.Application;
 
 /**
- * Àà×¢ÊÍ
+ * ÓÎÏ·Application
  * 
  * @author Zhouls
  * @date Sep 22, 2016 6:13:54 PM

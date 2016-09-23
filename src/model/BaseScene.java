@@ -12,7 +12,7 @@ import org.cocos2d.nodes.CCDirector;
 import org.cocos2d.types.CGSize;
 
 /**
- * Àà×¢ÊÍ
+ * Base³¡¾°
  * 
  * @author Zhouls
  * @date Sep 22, 2016 6:08:18 PM

@@ -14,7 +14,7 @@ import android.app.Activity;
 import android.os.Bundle;
 
 /**
- * ¿‡◊¢ Õ
+ * BaseΩÁ√Ê
  * 
  * @author Zhouls
  * @date Sep 20, 2016 4:45:18 PM
