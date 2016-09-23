@@ -1,0 +1,5 @@
+bin/AndroidManifest.xml
+*.class
+bin/R.txt
+gen/com/beauty/mario/R.java
+*.java
